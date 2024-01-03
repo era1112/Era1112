@@ -1,5 +1,5 @@
 About me:
-- Canadian computer science student
+- Canadian university student (Computer Science)
 - Interested in OS, embedded computing, compilers, reverse engineering
-- Currently working on x86-64 assembly and SDR projects
-- Interested in collaborating on projects for personal experience
+- Working towards CISSP, interested in network security and vulnerability hunting
+- Looking for projects to collaborate on for personal experience
